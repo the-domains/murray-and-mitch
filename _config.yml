@@ -1,0 +1,28 @@
+name: Murray&Mitch
+favicon: null
+layout_spectrum: 0.10698798741213977
+typography_spectrum: 0.1031805204693228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.36361592053435743
+  lightness: 0.7667682024184614
+  saturation: 0.6773648790549487
+  rhythmicContrast: 0.8838287647813559
+purpose: []
